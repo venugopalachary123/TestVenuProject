@@ -35,8 +35,7 @@ public class LoginPage {
 	   password.sendKeys(pswd);
    }
    
-   public void log_in(){
-	   login.click();
+ 
    }
 	
 }
